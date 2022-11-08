@@ -1,6 +1,6 @@
 # Hi, I'm Clems 👋
 
-I like building things with code.
+Junior Minecraft developer, I like building things with code.
 
 ## Languages and tools
 
